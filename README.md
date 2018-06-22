@@ -16,8 +16,8 @@ These are the important librariries that you will need in order to process this 
 ```
 ### NOTE:
 
-**In order to process this project you will need Tensorflow having version 1.7 or later** [Tensorflow 1.7 version](https://www.tensorflow.org/api_docs/python/tf/keras/Model).
+In order to process this project you will need Tensorflow having version 1.7 or later [Tensorflow 1.7 version](https://www.tensorflow.org/api_docs/python/tf/keras/Model).
 
 ## LINKS:
 
-**This project was built using this link** [Deep Learning Project 1](https://github.com/khawajaosama/deep_learning_pro_1).
+This project was built using this link [Deep Learning Project 1](https://github.com/khawajaosama/deep_learning_pro_1).
