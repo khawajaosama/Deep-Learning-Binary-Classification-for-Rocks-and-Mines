@@ -5,4 +5,4 @@
 
 ## LINKS:
 
-**This project was built using this link** [Deep Learning roject 1](https://github.com/khawajaosama/deep_learning_pro_1).
+**This project was built using this link** [Deep Learning Project 1](https://github.com/khawajaosama/deep_learning_pro_1).
