@@ -5,4 +5,4 @@
 
 ## LINKS:
 
-**This site was built using** [GitHub Pages](https://pages.github.com/).
+**This site was built using** [Deep Learning roject 1](https://github.com/khawajaosama/deep_learning_pro_1).
