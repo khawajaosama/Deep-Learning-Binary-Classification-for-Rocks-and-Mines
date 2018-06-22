@@ -8,11 +8,11 @@
 These are the important librariries that you will need in order to process this project:
 
 ```
-- **Tensorflow**
-- **Skit-Learn**
-- **Numpy**
-- **Matplotlib**
-- **Keras**
+- Tensorflow
+- Skit-Learn
+- Numpy
+- Matplotlib
+- Keras
 ```
 ### NOTE:
 
