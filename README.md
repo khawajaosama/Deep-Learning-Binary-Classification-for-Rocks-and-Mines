@@ -5,4 +5,4 @@
 
 ## LINKS:
 
-**The project is avialiable on drop box** [Project 1] (https://www.dropbox.com/s/v5xvykxmmbnagpc/Deep_Learning_Project_One.zip?dl=0)
+The project is avialiable on drop box [Deep Learning Project 1] (https://www.dropbox.com/s/v5xvykxmmbnagpc/Deep_Learning_Project_One.zip?dl=0.)
