@@ -5,4 +5,4 @@
 
 ## LINKS:
 
-The project is avialiable on drop box [Deep Learning Project 1] (https://www.dropbox.com/s/v5xvykxmmbnagpc/Deep_Learning_Project_One.zip?dl=0.)
+This site was built using [GitHub Pages](https://pages.github.com/).
