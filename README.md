@@ -9,7 +9,7 @@ These are the important libraries that you will need in order to process this pr
 
 ```
 - Tensorflow
-- Skit-Learn
+- Scikit-Learn
 - Numpy
 - Matplotlib
 - Keras
