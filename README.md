@@ -5,7 +5,7 @@
 
 ## REQUIREMENTS:
 
-These are the important librariries that you will need in order to process this project:
+These are the important libraries that you will need in order to process this project:
 
 ```
 - Tensorflow
